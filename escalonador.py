@@ -196,19 +196,7 @@ else:
     print("As tarefas não são escalonáveis...")
 
 
-# In[ ]:
 
-
-testes = [1,2,3]
-
-for x in testes:
-    print(x)
-    testes.append(x+3)
-    if x>50:
-        break
-
-
-# In[ ]:
 
 
 
