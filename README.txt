@@ -1,0 +1,1 @@
+A lógica está completa. A cada fim de loop, imprimimos a task que ficará ativa até next_t (ou seja, o próximo instante de tempo). Se for usado o valor da tarefa ativa, isso deve ser feito no momento em que ele é impresso, pois ele é editado depois disso (e antes do fim do loop).
