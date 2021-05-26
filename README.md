@@ -1,6 +1,6 @@
 # Simulador de Eventos Discretos com Algoritmos RM e EDF
 
-Este repositório contém um software que simula escalonamento de tarefas esporádicas em tempo real com os algoritimos Rate Monotonic e Earliest Deadline First.
+Este repositório contém um software que simula escalonamento de tarefas esporádicas em tempo real com os algoritmos Rate Monotonic e Earliest Deadline First.
 
 ## Exemplo de Entrada
 
@@ -21,6 +21,9 @@ Informe o algoritmo de escalonamento? (Escolhas: 1 = RM; 2 = EDF):
 ## Exemplos de Diagramas de Gantt Gerados
 
 Os diagramas podem ser explorados arrastando o ponteiro do mouse enquanto clica e utilizando o scroll do mesmo.
+
+* Nota 1: A ordem em que as tarefas aparecem é a mesma em que foram informadas pelo usuário, portanto não é representativa da prioridade das tarefas.
+* Nota 2: As cores em que são representadas as tarefas é meramente uma escolha estética e pode variar entre uma execução e outra, portanto não é representativa da prioridade das tarefas.
 
 ![alt text](fig/fig01.png) 
 
